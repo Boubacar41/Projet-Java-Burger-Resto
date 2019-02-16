@@ -1,0 +1,10 @@
+package test;
+Exception
+
+public class testException {
+public static void main(String[] args) {
+		 int a= 3;
+		System .out. println ("g(a)="+g(a));
+		 System .out. println ("h(a)="+h(a));
+}
+}

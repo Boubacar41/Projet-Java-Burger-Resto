@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="burgerResto" version="4">
+  <OBJECT>
+    <ID name="burgerResto" mc="Standard.Project" uid="99203582-d071-4054-b353-4a38098600af"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[burgerResto]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="burgerResto" mc="Standard.DiagramSet" uid="24190f1e-b22e-4b2b-919d-825ec71880fd"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="burgerresto" mc="Standard.Package" uid="c2386a38-3ac9-473f-97ad-435440183ff9"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

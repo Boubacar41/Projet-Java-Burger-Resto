@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cas commander" version="4">
+  <OBJECT>
+    <ID name="Cas commander" mc="Standard.Package" uid="1a3f688c-ed0d-4565-82ed-b14097388209"/>
+    <PID name="Logical view" mc="Standard.Package" uid="3ca0c9db-eccf-4e69-9b12-e6caffdf1c56"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Cas commander]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Commander" mc="Standard.UseCase" uid="3248c268-c2ab-4cf8-b2bc-3f83211a0794"/>
+        <COMPID name="Actor" mc="Standard.Actor" uid="09df6b00-01f9-44ae-92f2-4af484e373ab"/>
+        <COMPID name="BoundaryCommander" mc="Standard.Class" uid="c3c54458-d398-4157-900f-dd23232b17e7"/>
+        <COMPID name="controlVerificationIdentification" mc="Standard.Class" uid="e1be5a7d-17dc-4e29-868c-850e55836079"/>
+        <COMPID name="ControlCommander" mc="Standard.Class" uid="c63bf48f-3cdd-4321-b856-6cc0145dfca1"/>
+        <COMPID name="Menu" mc="Standard.Class" uid="9c2303e1-8ae6-40a4-8ad5-0c800290a207"/>
+        <COMPID name="Hamburger" mc="Standard.Class" uid="86076957-6d0c-4a7c-b8f6-7ad97acacd97"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Commander : DCParticipantes" mc="Standard.ClassDiagram" uid="a4e34472-27e0-4aba-b604-fd59bf96d37e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

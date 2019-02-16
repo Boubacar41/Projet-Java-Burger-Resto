@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="overview diagram" version="4">
+  <OBJECT>
+    <ID name="overview diagram" mc="Standard.ClassDiagram" uid="c30654e4-7cb7-4bee-baeb-3c8cc3db3818"/>
+    <PID name="project web dynamique" mc="Standard.Package" uid="3cb91e2a-1c67-4e52-8cc2-8cfc9db6cf41"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">59</ATT>
+      <ATT name="UiData"><![CDATA[eJztU11P2zAU/SuW3+uWpUAfQhE0qEJkFLXbpD2hG/vSGRy7st2P/Ps5TbrRTo2ChOBlT7av7zn369z4cpMrskLrpNEX9IT1KLkcxpPsGbknUgQTJb5Y4AU1ds5yI1BJw4SEuYWcoZDeWOY8ePnCUGGO2rvqzXdO43y2fSfVm5Icno19/BO0R4fxgzULtL4gGvIQS0Fhlj4BD+HvB6gl1knopVK0O4y7O8A/0JkvFNK9Er40leBKf8e4scgqbIv8RuA4CBS7YDcbP8WnllHuA0WNJLjxSXYbctxey4vAJ1gqf1BktyqnqXCLCjyKkMdBz76WJrIqLSFzBc7VkyA86p2d9rHfOefZeaefIXYywKwT8QHnkciiwcmguduBzd9ps9YpZKgOAs+8lXpOhya0ciVxTepuxN2tV2MxRuGtHpl8YZz0YQxHqFtQjX5JJSyWDKl0ZQvr4ygilfrFtXe/nicW1iGdFAq0+9KLGrdnty+iwjumSoawMHuEH7Mvb0N9itikOKKCZMzSq58308frq9HdeDr5fp+8jzBarN3rUf0VzSsJ9P9L4CMl8G3y8N6zP/r1G3K2h7I=]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[overview diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

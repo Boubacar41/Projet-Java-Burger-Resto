@@ -1,0 +1,29 @@
+package test;
+
+public class Exception {
+	public int f(int x) throws MyException {
+		if (x < 5)
+			throw new MyException("f: erreur ");
+		else
+			return 10;
+	}
+
+	public int g(int x) {
+		int z;
+		try {
+			z = f(x);
+		} catch (MyException e) {
+			e.printStackTrace();
+			z = 0;
+		}
+		z = z + 2;
+		return z;
+	}
+
+	public int h( int x) throws MyException {
+		 int z = f(x);
+		 z=z +10;
+		 return z;
+		 }
+
+}

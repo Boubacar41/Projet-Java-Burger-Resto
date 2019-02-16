@@ -1,0 +1,9 @@
+package test;
+
+public class MyException extends Exception {
+String e;
+	
+public MyException(String s) {
+		this.e=s;
+	}
+}

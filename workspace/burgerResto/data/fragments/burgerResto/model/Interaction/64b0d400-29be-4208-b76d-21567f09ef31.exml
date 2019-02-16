@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Commander: DSSystem" version="4">
+  <OBJECT>
+    <ID name="Commander: DSSystem" mc="Standard.Interaction" uid="64b0d400-29be-4208-b76d-21567f09ef31"/>
+    <PID name="Commander" mc="Standard.UseCase" uid="3248c268-c2ab-4cf8-b2bc-3f83211a0794"/>
+    <ATTRIBUTES>
+      <ATT name="IsReentrant">false</ATT>
+      <ATT name="Name"><![CDATA[Commander: DSSystem]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedCollaboration">
+        <OBJECT>
+          <ID name="locals" mc="Standard.Collaboration" uid="4d272975-20be-4a1c-9085-13cacfeaf408"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[locals]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Commander: DSSystem" mc="Standard.SequenceDiagram" uid="8510dfd7-59fb-41b6-bd54-078842633285"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

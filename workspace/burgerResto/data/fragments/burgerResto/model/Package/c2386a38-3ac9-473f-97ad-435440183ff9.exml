@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="burgerresto" version="4">
+  <OBJECT>
+    <ID name="burgerresto" mc="Standard.Package" uid="c2386a38-3ac9-473f-97ad-435440183ff9"/>
+    <PID name="burgerResto" mc="Standard.Project" uid="99203582-d071-4054-b353-4a38098600af"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[burgerresto]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Logical view" mc="Standard.Package" uid="3ca0c9db-eccf-4e69-9b12-e6caffdf1c56"/>
+        <COMPID name="src" mc="Standard.Package" uid="517ae52f-bd3e-4d36-880c-a48308d38343"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="7eaac57e-fab1-4b09-a261-016aadcf2026"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

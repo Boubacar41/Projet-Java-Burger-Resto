@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="burgerResto" version="4">
+  <OBJECT>
+    <ID name="burgerResto" mc="Standard.AnalystProject" uid="19c4a7fd-c877-431c-82e0-cceab0e15840"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[burgerResto]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="PropertyRoot">
+        <COMPID name="burgerResto" mc="Standard.PropertyContainer" uid="cbe17bac-48cb-475e-9c5c-ecbb13616a14"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

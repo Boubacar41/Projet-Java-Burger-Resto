@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ControlSIdentifier.java&apos; to &apos;control.ControlAjouterAlimentMenu.java&apos;&#x0D;&#x0A;- Original project: &apos;burgerResto&apos;&#x0D;&#x0A;- Destination element: &apos;control.ControlAjouterAlimentMenu.java&apos;&#x0D;&#x0A;- Original element: &apos;model.ControlSIdentifier.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;control{ControlAjouterAlimentMenu.java" element1="/src&lt;model{ControlSIdentifier.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1522224414874" units="1" version="1.0"/>
+</session>

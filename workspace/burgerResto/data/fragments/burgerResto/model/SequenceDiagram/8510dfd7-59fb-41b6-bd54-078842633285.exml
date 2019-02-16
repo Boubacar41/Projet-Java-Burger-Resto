@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Commander: DSSystem" version="4">
+  <OBJECT>
+    <ID name="Commander: DSSystem" mc="Standard.SequenceDiagram" uid="8510dfd7-59fb-41b6-bd54-078842633285"/>
+    <PID name="Commander: DSSystem" mc="Standard.Interaction" uid="64b0d400-29be-4208-b76d-21567f09ef31"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">348</ATT>
+      <ATT name="UiData"><![CDATA[eJztU9tO20AQ/ZXVvmdzh7QyQRCjCOESFANSn9A4O0mX7iXdXUP8912TBEiqWK6E6EufbM3OOTNn5kx0ulKSPKF1wugT2mYtSk6H0SR7xJkngocQJb5Y4gk1dsGU4SiFYVzAwoJiyIU3ljn8laOeIUOJCrV3r5Ft4lilm0i8jlCi4NHYh9fSLTqMbqxZovUF0aBCRQmFyX0MHsLbPcgcN63oXEraHEbNLeAPaOoLiXRHSKdKiCvzHZsZi2yNrdHfCNwMOPJtsYuVn+K8ZpXrQLFBElz5OLsMPb78lj8c55BLvyeyuZZTJdyiBI889LE3s29liDyVkTCe3WWQQb/d4nN+3Oh/mWeNXjs7amS832u0jgeDXueo2+0M+tUDl+D8lTbPOoEM5V7t1FuhF3Q4MkqB5mi/kjhNC+dRRc2XxEpJRuKlDtilccKHZRxgr0E1+iEkt1gyJMKVg9x8DiISoX+6+unni9jCc2gngQLtrgG7lZe0vRy+xjsmS4ZwODuEn3M1f4f6V5YT/IAR4jFLzr5fTB/Oz0ZX4+nk7jr+GG/UuL/323rzzTsX9P674JNdcDu5+ej1H3z6DRmzijk=]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[Commander: DSSystem]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Standard.Note" uid="e71b0e28-13e2-42c2-924f-4cfc6f480f32"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Standard.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
